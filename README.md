@@ -26,14 +26,14 @@ Steps to create a repository:
 
 ## Version Control with Git:
 
-** Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers? **
+__Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?__
 1. Repositories: A Git repository (repo) is where your project lives. It contains all the files and their complete history.
 2. Commits: A commit is a snapshot of your project at a given point in time. Each commit contains the changes made to the files and a message describing the changes.
 3. Branches: Branches allow you to diverge from the main line of development and continue to work without affecting the main codebase. The default branch in Git is usually called main or master.
 4. Merging: When a feature or fix is complete, branches can be merged back into the main branch. This process integrates the changes made in the branch with the main codebase.
 5. Remote Repositories: A remote repository is a version of your project that is hosted on the internet or another network. It allows multiple developers to collaborate on the same project by pushing (uploading) and pulling (downloading) changes.
 
-<!--How Github enhances version control--!>
+__How Github enhances version control__
 1. Centralized Hosting: GitHub provides a centralized place to host Git repositories, making it easy to share and collaborate on code with other developers.
 2. Pull Requests: A pull request (PR) is a feature that lets developers notify team members that they have completed a feature. PRs facilitate code review and discussion before merging changes into the main branch.
 3. Issue Tracking: GitHub includes a built-in issue tracker to manage bug reports, feature requests, and other project-related tasks. This integration helps keep development and project management in one place.
@@ -43,17 +43,17 @@ Steps to create a repository:
 7. Social Coding: GitHub’s platform fosters a community where developers can discover, fork (copy), and contribute to open-source projects. It includes features like stars (favorites) and followers, enhancing collaboration and knowledge sharing.
 8. Security and Permissions: GitHub allows fine-grained access control for repositories. You can define who can view, contribute, or administer each project, enhancing security and collaboration efficiency.
 
-##Branching and Merging in GitHub:
+## Branching and Merging in GitHub:
 
-*What are branches in GitHub, and why are they important? Describe the process of creating a branch, making changes, and merging it back into the main branch.*
+__What are branches in GitHub, and why are they important? Describe the process of creating a branch, making changes, and merging it back into the main branch.__
 Branches in Git and GitHub are integral to version control, enabling developers to work on different parts of a project simultaneously without interfering with the main codebase. Each branch represents an independent line of development.
-<!--Importance of branches --!>
+#### Importance of branches 
 - Isolation: They isolate work on new features, bug fixes, or experiments from the main codebase.
 - Collaboration: Multiple developers can work on different branches simultaneously, enhancing collaboration.
 - Versioning: They allow for parallel development and versioning, making it easier to manage releases and updates.
 - Safety: By keeping the main branch stable, branches prevent untested code from being deployed or released prematurely
-<!-- Process of creating Branch, making changes and merging back --!>
-- Use: <!--git checkout main --!> then, <!-- git branch newbranch --!>: This creates a new branch
+#### Process of creating Branch, making changes and merging back
+- Use: *git checkout main* then, *git branch newbranch*: This creates a new branch
 - switch to new branch: <!-- git checkout newbranch --!>
 - Make changes using: <!-- git add .; git commit -m "Message here"; git push origin newbranch --!>
 **Merging Branches in github**
