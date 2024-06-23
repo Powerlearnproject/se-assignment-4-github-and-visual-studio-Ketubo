@@ -111,7 +111,7 @@ __Example of CI/CD workflow__
 
 Visual Studio is an integrated development environment (IDE) from Microsoft used for developing computer programs, websites, web apps, web services, and mobile apps.
 
-<!--Key Features--!>
+__Key Features__
 
 - Comprehensive IDE: Includes a code editor, debugger, compiler, and other tools for software development.
 - Multiple Languages: Supports C#, VB.NET, C++, Python, JavaScript, and more.
@@ -120,7 +120,7 @@ Visual Studio is an integrated development environment (IDE) from Microsoft used
 - Integrated Tools: Built-in support for version control (Git), database integration, and Azure services.
 - Extensibility: Supports a wide range of plugins and extensions.
 
-<!--Differences--!>
+__Differences__
 
 - Purpose: Visual Studio is a full-fledged IDE for large-scale, comprehensive development projects, whereas VS Code is a lightweight code editor suitable for quick edits and small projects.
 - Performance: Visual Studio is more resource-intensive, while VS Code is designed to be lightweight and fast.
@@ -150,7 +150,7 @@ Visual Studio is an integrated development environment (IDE) from Microsoft used
 - In Team Explorer, click New under the Local Git Repositories section.
 - Create a new repository and then publish it to GitHub by clicking Publish to GitHub
 
-<!--How it enhances development workflow--!>
+__How it enhances development workflow__
 
 - Version Control: Seamless Git integration allows for easy commit, push, pull, and branch management within Visual Studio.
 - Collaboration: Facilitates team collaboration through pull requests and code reviews directly from the IDE.
