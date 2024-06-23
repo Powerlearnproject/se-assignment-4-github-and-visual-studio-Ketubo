@@ -99,7 +99,7 @@ In your GitHub repository, create a directory called .github/workflows.
 Step 2: Add a Workflow YAML File
 Inside the .github/workflows directory, create a file named ci-cd-pipeline.yml.
 Step 3: Define the Workflow
-##Introduction to Visual Studio:
+## Introduction to Visual Studio:
 
 *What is Visual Studio, and what are its key features? How does it differ from Visual Studio Code?*
 Visual Studio is an integrated development environment (IDE) from Microsoft used for developing computer programs, websites, web apps, web services, and mobile apps.
@@ -117,7 +117,7 @@ Visual Studio is an integrated development environment (IDE) from Microsoft used
 - Platform Support: Visual Studio primarily supports Windows (with limited support for macOS), while VS Code is fully cross-platform.
 - Extensibility: Both are extensible, but VS Code has a more extensive marketplace for lightweight extensions.
 - Integrated Tools: Visual Studio comes with many integrated tools for development, testing, and deployment, while VS Code relies more on extensions for additional functionality.
-##Integrating GitHub with Visual Studio:
+## Integrating GitHub with Visual Studio:
 
 *Describe the steps to integrate a GitHub repository with Visual Studio. How does this integration enhance the development workflow?*
 1. Install Visual Studio: Ensure you have Visual Studio installed with the appropriate workload (e.g., .NET development).
@@ -144,7 +144,7 @@ Visual Studio is an integrated development environment (IDE) from Microsoft used
 - Continuous Integration: Enables integration with GitHub Actions for CI/CD pipelines, automating builds, tests, and deployments.
 - Code Management: Provides features like branching, merging, and conflict resolution within a familiar interface.
 - Productivity: Enhances productivity by combining coding, version control, and project management tools in one environment.
-##Debugging in Visual Studio:
+## Debugging in Visual Studio:
 
 *Explain the debugging tools available in Visual Studio. How can developers use these tools to identify and fix issues in their code?*
 1. Breakpoints:
@@ -172,7 +172,7 @@ Visual Studio is an integrated development environment (IDE) from Microsoft used
 10. Data Tips:
 - Hover over variables to see their values inline during debugging.
 
-##Collaborative Development using GitHub and Visual Studio:
+## Collaborative Development using GitHub and Visual Studio:
 
 *Discuss how GitHub and Visual Studio can be used together to support collaborative development. Provide a real-world example of a project that benefits from this integration.*
 - Source Control: Visual Studio’s Team Explorer integrates with GitHub for version control, allowing commit, push, pull, and branch management directly from the IDE.
