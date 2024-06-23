@@ -6,12 +6,12 @@ Instructions:
 Answer the following questions based on your understanding of GitHub and Visual Studio. Provide detailed explanations and examples where appropriate.
 
 Questions:
-##Introduction to GitHub:
+## Introduction to GitHub:
 
 *What is GitHub, and what are its primary functions and features? Explain how it supports collaborative software development.*
 GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.It is a website that hosts git repositories on a remote server.
 
-##Repositories on GitHub:
+## Repositories on GitHub:
 
 *What is a GitHub repository? Describe how to create a new repository and the essential elements that should be included in it.*
 A GitHub repository, often referred to simply as a "repo," is a centralized location on GitHub where you can store and manage your code, files, and project data. It's like a virtual storage space where you can keep all your project-related materials organized and accessible. GitHub repositories are a fundamental part of the Git version control system, providing a collaborative platform for developers to store, track, and share their work.
