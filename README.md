@@ -24,16 +24,16 @@ Steps to create a repository:
 5. Select whether your repository should be public or private. Public repositories can be seen by anyone on the internet. Private repositories can only be seen by people who you have invited to collaborate on the repository.
 6. Click "Create repository".
 
-##Version Control with Git:
+## Version Control with Git:
 
-*Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers?*
+** Explain the concept of version control in the context of Git. How does GitHub enhance version control for developers? **
 1. Repositories: A Git repository (repo) is where your project lives. It contains all the files and their complete history.
 2. Commits: A commit is a snapshot of your project at a given point in time. Each commit contains the changes made to the files and a message describing the changes.
 3. Branches: Branches allow you to diverge from the main line of development and continue to work without affecting the main codebase. The default branch in Git is usually called main or master.
 4. Merging: When a feature or fix is complete, branches can be merged back into the main branch. This process integrates the changes made in the branch with the main codebase.
 5. Remote Repositories: A remote repository is a version of your project that is hosted on the internet or another network. It allows multiple developers to collaborate on the same project by pushing (uploading) and pulling (downloading) changes.
 
-How Github enhances version control
+<!--How Github enhances version control--!>
 1. Centralized Hosting: GitHub provides a centralized place to host Git repositories, making it easy to share and collaborate on code with other developers.
 2. Pull Requests: A pull request (PR) is a feature that lets developers notify team members that they have completed a feature. PRs facilitate code review and discussion before merging changes into the main branch.
 3. Issue Tracking: GitHub includes a built-in issue tracker to manage bug reports, feature requests, and other project-related tasks. This integration helps keep development and project management in one place.
